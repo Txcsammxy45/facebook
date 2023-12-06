@@ -122,4 +122,7 @@ body{
 	.left p{
 		font-size: 25px;
 	}
+	.right{
+		width: 95%;
+	}
 }
